@@ -1,4 +1,4 @@
-# Phase-Transition Dynamics in Systemic Evolution
+# Phase-Transition Dynamics in Machine-Learning-Evolution
 
 **From Information Primitives to Autonomous Latent States**
 
