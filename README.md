@@ -145,3 +145,4 @@ The complete system demonstrates:
 - **Bronstein, M. M., et al.** (2021). *Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges*. arXiv:2104.13478. (Supports manifold learning and latent space geometry)
 
 
+> Complexity emerges when information finds a substrate to hold it, and autonomy begins when that substrate learns to reorganize itself.
