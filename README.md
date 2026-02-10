@@ -74,7 +74,7 @@ The simulation tracks and reports:
 
 ---
 
-## Scientific Conclusions
+## Conclusions
 
 The simulation demonstrates four key principles:
 
@@ -88,7 +88,7 @@ The simulation demonstrates four key principles:
 
 ---
 
-## How It All Connects
+## Framework
 
 This project integrates information theory, complex system dynamics, and phase-transition mechanisms into a unified mathematical framework:
 
@@ -120,7 +120,7 @@ The complete system demonstrates:
 - **Phase-transition catalysis:** Opportunity windows trigger reorganization events (Ghavasieh et al.)
 - **Emergent autonomy:** Ω synthesis occurs naturally without external programming
 
-Together, this shows how **information can evolve into structured, autonomous systems** through purely mathematical mechanisms, generalizable across domains from neural networks to social systems to economic markets.
+**Information can evolve into structured, autonomous systems** through purely mathematical mechanisms, generalizable across domains from neural networks to social systems to economic markets.
 
 ---
 
