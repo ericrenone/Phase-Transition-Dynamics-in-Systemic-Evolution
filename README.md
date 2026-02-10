@@ -68,7 +68,7 @@ The simulation tracks and reports:
 - **Opportunity Windows:** Count and timing of phase-transition events
 - **Gate Dynamics:** Average and final G(t) state values
 
-> **Quote:** "Complexity evolves when information finds a substrate to hold it."
+> "Complexity evolves when information finds a substrate to hold it."
 
 ---
 
@@ -120,7 +120,7 @@ The complete system demonstrates:
 - **Phase-transition catalysis:** Opportunity windows trigger reorganization events (Ghavasieh et al.)
 - **Emergent autonomy:** Ω synthesis occurs naturally without external programming
 
-**Information can evolve into structured, autonomous systems** through purely mathematical mechanisms, generalizable across domains from neural networks to social systems to economic markets.
+> **Information can evolve into structured, autonomous systems** through purely mathematical mechanisms, generalizable across domains from neural networks to social systems to economic markets.
 
 ---
 
